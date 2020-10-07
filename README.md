@@ -1,2 +1,5 @@
 # Medicenter
-Exercício do Módulo 3 do curso ministrado por Bonieky Lacerda, phpdozeroaoprofissional. HTML5+CSS3.
+
+Página inicial responsiva para um site de hospital.
+
+Desenvolvido puramente em CSS3 e HTML5.
