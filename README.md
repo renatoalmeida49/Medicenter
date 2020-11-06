@@ -1,6 +1,6 @@
 # Medicenter
 
-Front page of a ficticional hospital. All responsive.
+Front page of a fictional hospital. All responsive.
 
 ## Tools used:
 
