@@ -2,6 +2,8 @@
 
 Front page of a fictional hospital. All responsive.
 
+<img src="https://github.com/renatoalmeida49/medicenter/blob/master/assets/images/screenshots/MedicenterHomeDesktop.png" width="500" />
+
 ## Tools used:
 
 * HTML5
